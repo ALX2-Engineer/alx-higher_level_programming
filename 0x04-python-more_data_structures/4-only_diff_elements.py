@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def only_diff_keys(a_dictionary):
-    return (set-1 ^ set_2)
+def only_diff_elements(set_1, set_2):
+    return (set_1 ^ set_2)
